@@ -1,0 +1,2 @@
+# slideshow
+GitPitch用のリポジトリ
